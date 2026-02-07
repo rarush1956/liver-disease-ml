@@ -1,24 +1,10 @@
-# Liver Disease Prediction using Machine Learning
+# Model Evaluation Figures
 
-This project presents a machine learning pipeline to predict liver disease
-using the Indian Liver Patient Dataset (ILPD).
+This directory contains visualizations generated during the
+evaluation of the liver disease prediction model.
 
-## Methods
-- Data preprocessing and feature scaling
-- Class imbalance handling using SMOTE
-- Random Forest classification
-- Model evaluation using ROC, PR, and confusion matrix
-- Explainability using SHAP values
+The figures include performance metrics, data distribution analysis,
+feature importance, correlation analysis, and cross-validation results.
 
-## Results
-- ROC-AUC ≈ 0.80
-- Balanced Accuracy ≈ 0.78
-
-## Project Structure
-- data/: Dataset files
-- src/: ML pipeline code
-- notebooks/: Experiments and analysis
-- figures/: Evaluation plots
-
-## Author
-R Arush 
+These visualizations support the conclusions drawn from the
+machine learning experiments.
